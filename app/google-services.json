@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564174756783",
+    "project_id": "fir-test-9c2a0",
+    "storage_bucket": "fir-test-9c2a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564174756783:android:475dbf380f337e4cdbed5a",
+        "android_client_info": {
+          "package_name": "com.sofar.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_zL9bci1EUYcHFmbNrTYJokK3_9gY8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
